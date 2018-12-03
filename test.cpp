@@ -10,7 +10,7 @@ int main() {
     p1 = &ic;
     p2 = p1;
     
-
     std::cout << dval << " " << ri << std::endl;
     return 0;
 }
+

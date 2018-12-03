@@ -1,3 +1,6 @@
+# cquery cache
+/.cquery_cached_index/
+
 # Prerequisites
 *.d
 

@@ -8,3 +8,6 @@ void print_vector(const std::vector<T>& v) {
     std::copy(v.begin(), v.end(), std::ostream_iterator<T>(std::cout, ", ")); // .c_str() needed for the second param
     std::cout << '}' << std::endl;
 }
+
+template<typename T>
+class TD;
